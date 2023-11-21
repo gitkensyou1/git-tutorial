@@ -2,3 +2,4 @@
 
  -feature-A
  test
+-fix-B
